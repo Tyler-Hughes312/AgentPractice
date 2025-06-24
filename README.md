@@ -48,5 +48,3 @@ The script will:
 - Ratings: 1-4 = bad, 5-6 = neutral, 7-10 = good for the company.
 - Make sure your API keys are valid and not rate-limited.
 
-## License
-MIT
